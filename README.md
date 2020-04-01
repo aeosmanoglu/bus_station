@@ -1,6 +1,6 @@
-# bustest
+# Bus Station
 
-A new Flutter application.
+A new Flutter application that uses MongoDB for DB.
 
 ## Getting Started
 
